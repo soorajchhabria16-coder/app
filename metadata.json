@@ -1,0 +1,7 @@
+{
+  "name": "Spectra",
+  "description": "A premium marketplace for licensing Digital Twins in the film and gaming industries.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
